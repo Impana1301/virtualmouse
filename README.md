@@ -1,0 +1,4 @@
+- Enhances Human-Computer Interaction (HCI) using CNN-based hand gesture recognition.  
+- Replaces traditional input devices with real-time gesture control.  
+- Uses a webcam and CNN model for accurate gesture recognition.  
+- Provides an intuitive, hands-free, and accessible way to control computers.  
